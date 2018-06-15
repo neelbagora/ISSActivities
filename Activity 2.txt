@@ -1,0 +1,22 @@
+Activity 2:
+
+`Red
+LOW 15
+HIGH 14
+PAUSE 3000
+
+`Yellow
+HIGH 15
+LOW 14
+
+counter VAR Byte
+
+FOR counter = 1 TO 10
+	HIGH 12
+	PAUSE 500
+	LOW 12
+	PAUSE 500
+
+NEXT
+	LOW 15
+	HIGH 14
