@@ -1,0 +1,21 @@
+Activity 7:
+
+maxVal CON 4000
+minVal CON 100
+time VAR Word
+
+PAUSE 1000
+
+DO 
+  HIGH 2
+  PAUSE 1
+  RCTIME 2,1, time
+  
+  time = time MAX maxVal MIN minVal
+  
+  if time > (maxVal - minVal) / 2 THEN
+    PULSOUT 14,500
+  ELSE
+    PULSOUT 14,1000
+  ENDIF
+LOOP
