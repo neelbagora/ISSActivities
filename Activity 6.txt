@@ -1,0 +1,27 @@
+Activity 6:
+
+'Patterns for the letters to be displayed.
+F CON %01110001
+I CON %00100001
+S CON %01110110
+H CON %10110101
+SPACE CON %00000000
+C CON %01100011
+P CON %11110001
+A CON %11110101
+n CON %00010101
+d CON %10010111
+
+index VAR Byte
+
+OUTH = %00000000
+
+PAUSE 1000
+
+DO
+  FOR index = 0 to 18
+    LOOKUP index, [F,I,S,H,SPACE,C,H,I,P,SPACE,A,n,d,SPACE,dIP,SPACE], OUTH
+    PAUSE 400
+  NEXT   
+LOOP
+    
