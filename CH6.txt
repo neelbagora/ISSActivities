@@ -1,4 +1,4 @@
-Activity 6:
+Project 1:
 
 'Patterns for the letters to be displayed.
 F CON %01110001
