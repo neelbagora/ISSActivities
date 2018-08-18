@@ -1,0 +1,3 @@
+Question 2:
+
+The base controls the current passing through the transistor. Passing through the transistor means that the current is stronger when a transistor acts on it. 
