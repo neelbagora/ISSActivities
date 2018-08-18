@@ -1,4 +1,4 @@
-Activity 5:
+Question 5:
 
 As R gets larger, the RC time increases in relation to the resistance increase. As R gets smaller, the RC time decreases in proportion to the decrease.
 
