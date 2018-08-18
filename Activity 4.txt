@@ -1,1 +1,3 @@
+Activity 4:
 
+Without the LED, the servo will not be able to function as the LED acts as a load, limiting the energy flow, as well as a connection between the current and the servo.
