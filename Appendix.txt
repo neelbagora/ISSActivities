@@ -1,0 +1,7 @@
+If the voltage across a 500 ohm resister is 7.1 volts when it is in series with an LED that has a 1.7 volt Forward voltage, how much current is flowing through the LED?
+
+V = I x R
+7.1 = I x 500 ohms.
+I = 7.1 / 500 ohms.
+I = 0.0142 
+I = 14.2 mA
