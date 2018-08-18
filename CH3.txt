@@ -1,4 +1,4 @@
-Activity 3:
+Chapter 3:
 
 DEBUG ? IN3 prints the value of IN3 in the format of "IN3=x". 0 and 1 represents the state of the pin. 
 
