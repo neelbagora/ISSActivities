@@ -1,4 +1,4 @@
-Activity 7:
+Project 7:
 
 maxVal CON 4000
 minVal CON 100
