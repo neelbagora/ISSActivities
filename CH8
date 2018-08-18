@@ -1,0 +1,4 @@
+Questions 2/3:
+
+2. FREQOUT 15, 1000, 3000 sends a signal of 3000 Hz to pin 15 for 1000 ms.
+3. FREQOUT 15, 1000, 3000, 2000 (add the second frequency to the line)
